@@ -6,4 +6,6 @@ public class Hat {
 
     // I like  black hat
 
+    // I don't like pik hats
+
 }
