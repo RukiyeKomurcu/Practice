@@ -8,4 +8,6 @@ public class Hat {
 
     // I don't like pik hats
 
+    // 4 tae sapka aldim
+
 }
